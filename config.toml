@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "My New Hugo Site"
+baseurl = "http://localhost:8080/"
+theme = "hugo_theme_robust"
